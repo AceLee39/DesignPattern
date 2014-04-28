@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/ace/designpattern/adapterpattern/ChinaPlayers.java=UTF-8
+encoding//src/com/ace/designpattern/adapterpattern/Translators.java=UTF-8
+encoding//src/com/ace/designpattern/statepattern/State.java=UTF-8
+encoding//src/com/ace/designpattern/statepattern/state/HasQuarterState.java=UTF-8
+encoding//src/com/ace/designpattern/statepattern/state/NoQuarterState.java=UTF-8
